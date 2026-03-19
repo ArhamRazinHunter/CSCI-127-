@@ -1,0 +1,7 @@
+"""
+Name: Arham Rahman Razin
+Email: ARHAM.RAZIN19@myhunter.cuny.edu
+Account name for my Github account
+"""
+
+ArhamRazinHunter
