@@ -1,7 +1,9 @@
 '''
+Arham razin
+arhan.razin19@login.cuny.edu
+'''
 Name: Arham Razin
 Email: arham.razin19@login.cuny.edu
-Account name for my Github Account
-'''
+Account name for my github account
 
 ArhamRazinHunter
